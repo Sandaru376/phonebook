@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692165207 source:c:\users\ranus\desktop\sandaru\student manegement\student syetem 2.1\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+
